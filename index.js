@@ -1,5 +1,5 @@
 //3+2
-console.log(a);
+//console.log(a);
 
 let a = 'Bogdan';
 console.log(a);
