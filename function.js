@@ -26,7 +26,7 @@ console.log(myNewFunction(20, 2));
 console.log(myNewFunction(5, 3));
 console.log("==================================");
 
-//Значение параматра по умолчанию если второй параметр не передается в функцию
+//Значение параматра по умолчанию если второй параметр не передается в функцию  
 function multByFactory(value, multiplayer = 1) {
   return value * multiplayer;
 }
